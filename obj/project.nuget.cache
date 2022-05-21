@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "w9tcdOYKnpaMv08EGOJ+UXDiVBAs9UUXmV0MJObFHMqD1+5iu1ugON9wOcIL/I4Q1a68E41DbENI4+TbMP8gQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dream\\Documents\\MS BAIS\\ISM 6225\\Applications\\ISM6225_ModelBinding\\ISM6225_ModelBinding.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dream\\.nuget\\packages\\bootstrap\\5.1.3\\bootstrap.5.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}

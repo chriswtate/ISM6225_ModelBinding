@@ -1,0 +1,8 @@
+C:\Users\dream\Documents\MS BAIS\ISM 6225\Applications\ISM6225_ModelBinding\obj\Debug\net5.0\ISM6225_ModelBinding.csproj.AssemblyReference.cache
+C:\Users\dream\Documents\MS BAIS\ISM 6225\Applications\ISM6225_ModelBinding\obj\Debug\net5.0\ISM6225_ModelBinding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dream\Documents\MS BAIS\ISM 6225\Applications\ISM6225_ModelBinding\obj\Debug\net5.0\ISM6225_ModelBinding.AssemblyInfoInputs.cache
+C:\Users\dream\Documents\MS BAIS\ISM 6225\Applications\ISM6225_ModelBinding\obj\Debug\net5.0\ISM6225_ModelBinding.AssemblyInfo.cs
+C:\Users\dream\Documents\MS BAIS\ISM 6225\Applications\ISM6225_ModelBinding\obj\Debug\net5.0\ISM6225_ModelBinding.csproj.CoreCompileInputs.cache
+C:\Users\dream\Documents\MS BAIS\ISM 6225\Applications\ISM6225_ModelBinding\obj\Debug\net5.0\ISM6225_ModelBinding.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dream\Documents\MS BAIS\ISM 6225\Applications\ISM6225_ModelBinding\obj\Debug\net5.0\ISM6225_ModelBinding.RazorAssemblyInfo.cache
+C:\Users\dream\Documents\MS BAIS\ISM 6225\Applications\ISM6225_ModelBinding\obj\Debug\net5.0\ISM6225_ModelBinding.RazorAssemblyInfo.cs
